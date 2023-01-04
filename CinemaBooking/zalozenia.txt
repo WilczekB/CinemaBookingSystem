@@ -1,0 +1,22 @@
+1) Klasy/GUI
+2) I/O
+3) Sortowanie/Kolekcje
+4) Wyjątki
+
+Struktura pliku csv
+Kod (int)   Nazwa   Gatunek     Rok     Godzina     L.w.m/L.m(???Nie trzeba???)     Nr sali     Cena
+
+Klasy:
+Film
+Uzytkownik 
+Sala
+Miejsce
+
+Interface:
+Edycja filmów, Rezerwacja
+
+Czytanie/pisanie do pliku
+- plik z filmami
+- plik dla konkretnego seansu
+
+Sortowanie po kazde z cech

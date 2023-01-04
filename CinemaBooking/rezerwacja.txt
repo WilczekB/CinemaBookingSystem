@@ -1,0 +1,12 @@
+
+Dane biletu: 
+
+Tytul filmu: Top Gun:Maverick
+Numer siedzenia: 7
+Cena biletu: 50
+Rodzaj biletu: Dorosly
+Godzina seansu: 17:00
+Imie: Bartosz
+Nazwisko: Wilczek
+Email: bartekwilczek9@gmail.com
+___________________
